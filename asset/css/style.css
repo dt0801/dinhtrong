@@ -1,0 +1,17 @@
+/* RESSET CSS */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#myVideo {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.container {
+    background-color: blue;
+}
